@@ -1,10 +1,11 @@
 ### Eai, prazer sou o Samuel Leidens 👋
 
-- 💭 Hoje busco entrar no mundo de TI.
+- 💭 Atualmente trabalhando na Ouro Moderno
 - 💻 Atualmente estudo TI (Técnico de Informática)
-- 💻 Curso em andamento de Design Web(HTML, CSS,JavaScript)
+- 💻 Curso em andamento de Design Web(HTML, CSS, JavaScript)
 - 🎈 Tenho 21 anos
 - 🚀 Futuramente busco me especializar na área de desenvolvimento
+
 
 <div align="center">
   <a href="https://github.com/SamuelLeidens">
