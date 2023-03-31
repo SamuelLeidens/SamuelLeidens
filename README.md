@@ -1,9 +1,9 @@
 ### Eai, prazer sou o Samuel Leidens 👋
 
-- 💭 Atualmente trabalhando na Ouro Moderno
-- 💻 Atualmente estudo TI (Técnico de Informática)
+- 💭 Atualmente trabalhando na Seara Alimentos
+- 💻 Atualmente estudo ADS (Análise e Desenvolvimentos de Sistemas)
 - 💻 Curso em andamento de Design Web(HTML, CSS, JavaScript)
-- 🎈 Tenho 21 anos
+- 🎈 Tenho 22 anos
 - 🚀 Futuramente busco me especializar na área de desenvolvimento
 
 
