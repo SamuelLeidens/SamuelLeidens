@@ -3,7 +3,7 @@
 - 💭 Atualmente trabalhando na Seara Alimentos
 - 💻 Atualmente estudo ADS (Análise e Desenvolvimentos de Sistemas)
 - 💻 Curso em andamento de Design Web(HTML, CSS, JavaScript)
-- 🎈 Tenho 22 anos
+- 🎈 Tenho 24 anos
 - 🚀 Futuramente busco me especializar na área de desenvolvimento
 
 
