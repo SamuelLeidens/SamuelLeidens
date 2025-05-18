@@ -1,7 +1,7 @@
 ### Eai, prazer sou o Samuel Leidens 👋
 
 - 💭 Atualmente trabalhando na Seara Alimentos
-- 💻 Atualmente estudo ADS (Análise e Desenvolvimentos de Sistemas)
+- 💻 Formado em Logistica
 - 💻 Curso em andamento de Design Web(HTML, CSS, JavaScript)
 - 🎈 Tenho 24 anos
 - 🚀 Futuramente busco me especializar na área de desenvolvimento
